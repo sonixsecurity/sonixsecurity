@@ -28,9 +28,8 @@ Penetration Testing • Network Security • Web Application Security
 ## Currently Learning
 
 - CompTIA Security+ & CCNA
-- Cloud penetration testing (AWS, Azure)
 - reverse engineering
-
+  
 ---
 
 ## Contact

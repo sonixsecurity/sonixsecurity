@@ -15,22 +15,21 @@ Specializing in **Red Teaming** and offensive security operations.
 Python (Advanced) • Java (Fundamentals)
 
 **Security Tools:**  
-Metasploit • Burp Suite • Nmap • Wireshark • OWASP ZAP • SQLmap • Hashcat • John the Ripper • Mimikatz • BloodHound
+Burp Suite • Nmap • Wireshark • SQLmap 
 
 **Operating Systems:**  
-Kali Linux • Parrot OS • Windows • Ubuntu
+Kali Linux • Windows • Ubuntu
 
 **Specializations:**  
-Penetration Testing • Vulnerability Assessment • Network Security • Web Application Security • Active Directory Attacks
+Penetration Testing • Network Security • Web Application Security 
 
 ---
 
 ## Currently Learning
 
 - CompTIA Security+ & CCNA
-- Advanced Active Directory exploitation
 - Cloud penetration testing (AWS, Azure)
-- Malware analysis & reverse engineering
+- reverse engineering
 
 ---
 

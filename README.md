@@ -17,7 +17,7 @@ Python (Advanced) • Java (Fundamentals)
 Burp Suite • Nmap • Wireshark • SQLmap 
 
 **Operating Systems:**  
-Kali Linux • Windows • Ubuntu
+Kali Linux • Windows 
 
 **Specializations:**  
 Penetration Testing • Network Security • Web Application Security 
@@ -26,13 +26,10 @@ Penetration Testing • Network Security • Web Application Security
 
 ## Currently Learning
 
-- CompTIA Security+ & CCNA
-- reverse engineering
-  
+- CompTIA Security+ & CCNA  
 ---
 
 ## Contact
 
 **Email:** ashraf.0xa7m@gmail.com  
-**LinkedIn:** [linkedin.com/in/ashraf-mostafa-redteam](https://www.linkedin.com/in/ashraf-mostafa-redteam/)  
 **WhatsApp:** [+20 105 550 2256](https://wa.me/201055502256)
